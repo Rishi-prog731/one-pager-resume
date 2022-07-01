@@ -17,9 +17,9 @@ This is the GitHub repository for my one-pager resume. It was created with CSS a
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Body Background| ![#94D9EA](https://via.placeholder.com/10/94D9EA?text=+) #94D9EA |
-| Left Section| ![#00324A](https://via.placeholder.com/10/00324A?text=+) #00324A |
-| Information | ![#718096](https://via.placeholder.com/10/718096?text=+) #718096 |
+| Body Background| #94D9EA
+| Left Section| #00324A |
+| Information | #718096 |
 
 
 
